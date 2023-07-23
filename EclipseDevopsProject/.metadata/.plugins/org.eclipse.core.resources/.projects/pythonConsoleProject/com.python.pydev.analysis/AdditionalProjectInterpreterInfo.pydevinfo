@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+F:\EclipseDevopsProject\.metadata\.plugins\org.eclipse.core.resources\.projects\pythonConsoleProject\com.python.pydev.analysis\v2_indexcache
+calculator|1686738169882137300|F:\EclipseDevopsProject\pythonConsoleProject\src\calculator.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=calculator
+1=F:\EclipseDevopsProject\pythonConsoleProject\src\calculator.py
+-- END DICTIONARY
+-- START TREE 1
+7
+add|1|add!1^3#5*18@
+cho|1|choice!1^27#5*19@
+div|1|divide!1^15#5*18@
+mul|1|multiply!1^11#5*18@
+nex|1|next_calculation!1^56#9*19@
+num|2|num1!1^32#13*19@num2!1^33#13*19@
+sub|1|subtract!1^7#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
